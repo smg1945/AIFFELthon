@@ -1,0 +1,9 @@
+data
+.vscode
+__pycache__
+paper
+README
+Jupyter
+Python/model_SSD
+Python/model_EfficientDet
+Python/model_DIY_effdet
